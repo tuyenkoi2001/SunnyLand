@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - collectable
+  - enemy
+  - spike
+  - gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 1327106269
+    locked: 0
+  - name: middle
+    uniqueID: 125075637
+    locked: 0
+  - name: player
+    uniqueID: 957987163
+    locked: 0
+  - name: fore
+    uniqueID: 1959705241
+    locked: 0
+  - name: entity
+    uniqueID: 905795599
+    locked: 0
